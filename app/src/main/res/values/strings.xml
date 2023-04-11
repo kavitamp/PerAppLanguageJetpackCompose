@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">PerAppLanguageJetpackCompose</string>
+    <string name="text_to_translate">Hello there. Good morning</string>
+    <string name="text_select_language">Select language</string>
+</resources>
